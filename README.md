@@ -16,7 +16,7 @@ Here are some of the projects I've worked on:
 ## GitHub Stats
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay4664&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshay4664&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Akshay4664&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay4664&layout=compact&theme=radical)
 
