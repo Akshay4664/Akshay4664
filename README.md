@@ -18,6 +18,9 @@ Here are some of the projects I've worked on:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshay4664&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay4664&layout=compact&theme=radical)
+
+
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/akshay-sharma-111532161)
 
